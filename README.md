@@ -1,11 +1,11 @@
 # Interactive-Map
 
 ---
-title: "Income per Captica vs. High School Graduation Rate in each State in the United States of America"
-author: "Jane Chen"
-date: "29/04/2017"
-output: html_document
----
+
+Author: "Jane Chen"
+
+Date: "29/04/2017"
+
 
 This page includes an interactive map. This is for the Coursera “Developing Data Product” Week 2 Peer-Review Assessment. 
 
